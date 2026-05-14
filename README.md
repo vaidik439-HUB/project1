@@ -1,4 +1,4 @@
-# Fundamental Boost – Python Variables and Data Types Project(DATA COLLECTOR)
+# Fundamental Booster
 
 ## Project Overview
 This project is a beginner-friendly Python program designed to demonstrate the fundamentals of:
