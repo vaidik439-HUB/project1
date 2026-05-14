@@ -54,7 +54,11 @@ For every variable, the program displays:
 - Data Type
 - Memory Address
 
-Using:
-```python
-type()
-id()
+## Display Results
+Print a summary of the user's information,formatted in a user friendly way.
+Display messages showing how data types were converted where applicable.
+
+
+## Exit Message
+End with a thank-you message and encourage the user to explore python further.
+
